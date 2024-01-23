@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Playfair Display SC', serif;
+    background: #000;
+    color: #fff;
+  }
+  
+  p {
+    font-size: 3rem;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .js {
+    color: #fdfdfc;
+  }
+  
+  .typed-text {
+    color: #de8512;
+  }
+  
+  .cursor {
+    background: #dbe912;
+  }
+  
